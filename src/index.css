@@ -49,3 +49,11 @@ ul {
 .game-info {
   margin-left: 20px;
 }
+
+.bold-color {
+  color: #9067c6;
+}
+
+.square--winning {
+  background-color: goldenrod;
+}
